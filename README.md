@@ -18,4 +18,4 @@ Fast-paced 6-player multiplayer shooter game on Roblox.
 ## Built With
 - Roblox Studio
 - Luau
-- Cursor + Claude Opus 5
+- Cursor 
